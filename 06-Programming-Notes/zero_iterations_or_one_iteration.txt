@@ -1,0 +1,16 @@
+int n = 5;
+ while (n < 5) {
+    printf("%d\n", n);
+    n++;
+ }
+
+ /* Run this second snippet separately. */
+ int n = 5;
+ do {
+    printf("%d\n", n);
+    n++;
+ } while (n < 5);
+
+
+output = 
+5
